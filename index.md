@@ -9,6 +9,7 @@ C'est un projet de mod du jeu Sonic Robo Blast 2 Persona qui a pour but d'import
 Exemple d'un personnage (qui a déjà été implanté par quelqu'un d'autre) : 
 
 ![Vibing Naoto](https://github.com/TokiyoDorifto/vibingbbtag/blob/main/images/Vibing%20Naoto.jpg)
+![Vibing Naoto](https://user-images.githubusercontent.com/102819356/161310228-608eeb91-2403-4861-8f55-500aad40452c.jpg)
 
 
 
