@@ -6,7 +6,7 @@ C'est un projet de mod (modification) du jeu Sonic Robo Blast 2 Persona qui a po
 chibis. Nous essayons de transposer le gameplay du personnage dans BlazeBlue Cross Tag Battle, raccourci en BBTAG, soit un jeu de combat, dans Sonic Robo Blast 2 
 Persona. Nous espérons donc inclure un maximum de personnages (une dizaine de personnages sont prévus pour l'instant)
 
-Exemple d'un personnage chibi (qui a déjà été implanté par quelqu'un d'extérieur au projet) : 
+Exemple d'un personnage chibi (qui a déjà été implanté par quelqu'un d'extérieur au projet, source : https://knowyourmeme.com/memes/vibin-naoto) : 
 
 <img src="https://user-images.githubusercontent.com/102819356/161310228-608eeb91-2403-4861-8f55-500aad40452c.jpg"
      alt="Vibing Naoto"
@@ -20,10 +20,17 @@ C'est une version (très) modifiée, par des fans, du fan-game Sonic Robo Blast 
 de RPG tour par tour et de dungeon crawler. Pour être plus clair, le joueur évolue dans un immense labyrinthe de plusieurs centaines d'étages, avec différents pièges 
 comme des piques ou des trous, faisant perdre des points de vie. Le but est donc simplement d'aller le plus loin possible, bien que la difficulté soit extrême 
 (personne à ma connaissance a réussi à finir le jeu). Sur les différents étages, divisés en blocs de difficulté, chacuns séparés par des boss, sont disséminés les 
-ennemis récurrents de Persona 3, les Shadows. Quand le joueur entre en contact avec une de ces Shadows, un combat se lance, au tour par tour. Il y a également un 
-système de niveaux, faisant gagner des statistiques et à certains niveaux, des compétences, actives ou passives. Il y a aussi de l'équipement, ici une arme et un 
-anneau servant d'équipement défensif. Enfin, il y a tout un système de types d'attaque, chaque personnage et ennemi possédent des affinités différentes. On peut noter 
+ennemis récurrents de Persona 3, les Shadows. Quand le joueur entre en contact avec une de ces Shadows, un combat se lance, au tour par tour. On peut noter 
 d'autres modes de jeu, comme du joueur contre joueur assez classique ou des enchaînements purs et durs de combats.
+
+<h2>
+    Mécaniques de jeu
+</h2>
+
+Voici quelques mécaniques que nos personnages vont utiliser :
+- Les compétences utilisent 3 coûts : un certain pourcentage de PV maximums, des points de mana ou (plus rare) une ressource unique au jeu, les EP.
+- Les EP : Au fur et à mesure de l'avancée d'un combat, une jauge se remplit. Une fois pleine, le joueur obtient un EP, avec un maximum de 5, sachant que ces points et la jauge se réinitialisent à la fin du combat.
+- Les affinités de type : chaque personnage et type d'ennemi possède des affinités avec les différents types du jeu. Ces affinités peuvent être une faiblesse, faisant gagner une action et des dégâts supplémentaires à l'attaquant, une résistance, une immunité et du drain, les deux faisant perdre un tour à l'attaquant.
 
 <h1>
   Avancement du projet
@@ -41,11 +48,26 @@ individuellement, surtout en début de partie, quand ils ne possèdent pas encor
   Hyde
 </h2>
 
-Il est le premier personnage sur lequel on a travaillé car il était apprécié dans l'équipe. Ce sera un personnage rapide basé Il n'est pas encore fini. 
+Il est le premier personnage sur lequel on a travaillé car il était apprécié dans l'équipe. Ce sera un personnage rapide basé sur les dégâts physiques et magiques sur
+un seul ennemi à la fois, majoritairement de type Curse, néanmoins il sera très fragile. Il n'est pas encore fini. 
 
-Ses différentes attaques ont déjà été imaginées (cette liste peut changer au cours du développement), que voici :
+Image : 
 
-- Les Black Orbiter : la compétence de follow-up principale de Hyde. Celle-ci sera en 3 versions, qui verront leurs dégâts, leur coût en mana et leur taux de coup 
+<img src="https://user-images.githubusercontent.com/102819356/161374720-22fe0522-82f3-4ca2-92ef-2cdebb669266.png"
+     alt="Hyde Chibi"
+     width="267" height="200">
+
+Ses différentes attaques ont déjà été imaginées, basées sur ses attaques dans ses jeux originaux (cette liste peut changer au cours du développement), que voici :
+
+- Black Orbiter : la compétence de follow-up principale de Hyde. Celle-ci sera en 3 versions, qui verront leurs dégâts, leur coût en mana et leur taux de coup 
 critique augmenter au fur et à mesure des versions, inspirées du système de coup léger, moyen et fort des jeux de combat traditionnels, dont BlazeBlue Cross Tag 
 Battle.
-- EX Injection : 
+- EX Injection : une version un peu plus faible de Black Orbiter de type Almighty. Pourquoi ce type ? Tout simplement car il n'est pas affecté par les affinités. Cela permet donc d'éviter que Hyde ne puisse tout simplement pas attaquer certains ennemis.
+- Veil Off : permet de multiplier par 2.5 sa prochaine attaque. Elle fait partie de ces compétences obtenues tardivement car très puissantes
+- Vessel Break : une attaque qui sera commune à quasiment tous les personnages d'Under Night In-Birth. Elle permet de regagner tout son mana et de gagner un bonus en magie en l'échange d'un malus en attaque physique, en défense et en agilité.
+- Immortal Slayer : une attaque qui a de faibles chances (13%) de tuer en un seul coup.
+- Vacant Shift : une compétence physique qui inflige plusieurs coups, en 2 versions. La deuxième fait plus de dégâts, 2 coups en plus et possède de faibles chances de coup critique supplémentaire.
+- Black Lotus : identique conceptuellement aux Vacant Shift, mais de type Curse.
+- Raging Roar : l'attaque ultime de Hyde, dernière compétence obtenue au niveau 85, sur 99 maximum. Impossible à rater, de type Almighty donc non-affectée par les affinités. Elle inflige des dégâts corrects et surtout touche 8 fois tous les ennemis, permettant en l'échange de 5 EP, le maximum, de finir des grands groupes de boss à la fin du combat.
+
+
