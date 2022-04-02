@@ -6,7 +6,7 @@ C'est un projet de mod (modification) du jeu Sonic Robo Blast 2 Persona qui a po
 chibis. Nous essayons de transposer le gameplay du personnage dans BlazeBlue Cross Tag Battle, raccourci en BBTAG, soit un jeu de combat, dans Sonic Robo Blast 2 
 Persona. Nous espérons donc inclure un maximum de personnages (une dizaine de personnages sont prévus pour l'instant)
 
-Exemple d'un personnage chibi (qui a déjà été implanté par quelqu'un d'extérieur au projet, source : https://knowyourmeme.com/memes/vibin-naoto) : 
+Exemple d'un personnage chibi (qui a déjà été implanté par quelqu'un d'extérieur au projet, source : [Source](https://knowyourmeme.com/memes/vibin-naoto)) : 
 
 <img src="https://user-images.githubusercontent.com/102819356/161310228-608eeb91-2403-4861-8f55-500aad40452c.jpg"
      alt="Vibing Naoto"
