@@ -70,4 +70,4 @@ Battle.
 - Black Lotus : identique conceptuellement aux Vacant Shift, mais de type Curse.
 - Raging Roar : l'attaque ultime de Hyde, dernière compétence obtenue au niveau 85, sur 99 maximum. Impossible à rater, de type Almighty donc non-affectée par les affinités. Elle inflige des dégâts corrects et surtout touche 8 fois tous les ennemis, permettant en l'échange de 5 EP, le maximum, de finir des grands groupes de boss à la fin du combat.
 
-
+<a href="https://github.com/TokiyoDorifto/Vibing-BBTAG/blob/5f7ab78ac88bff440e93c1c448ff8a7139bda909/Vibing%20BBTAG.pk3" download>Click here to download</a>
