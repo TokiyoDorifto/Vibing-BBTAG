@@ -49,7 +49,7 @@ individuellement, surtout en début de partie, quand ils ne possèdent pas encor
 </h2>
 
 Il est le premier personnage sur lequel on a travaillé car il était apprécié dans l'équipe. Ce sera un personnage rapide basé sur les dégâts physiques et magiques sur
-un seul ennemi à la fois, majoritairement de type Curse, néanmoins il sera très fragile. Il n'est pas encore fini. 
+un seul ennemi à la fois, majoritairement de type Curse, néanmoins il sera très fragile. Il n'est pas encore fini, notamment sa partie navigation dans le donjon, mais la partie combat est fonctionnelle (malgré quelques bugs provenant du fait que nous n'ayons pas encore toutes les animations d'attaque). 
 
 Image : 
 
@@ -70,4 +70,27 @@ Battle.
 - Black Lotus : identique conceptuellement aux Vacant Shift, mais de type Curse.
 - Raging Roar : l'attaque ultime de Hyde, dernière compétence obtenue au niveau 85, sur 99 maximum. Impossible à rater, de type Almighty donc non-affectée par les affinités. Elle inflige des dégâts corrects et surtout touche 8 fois tous les ennemis, permettant en l'échange de 5 EP, le maximum, de finir des grands groupes de boss à la fin du combat.
 
+<h1>
+    Téléchargement
+</h1>
+
+<h2>
+    Sonic Robo Blast 2 Persona
+</h2>
+
+Il vous faudra d'abord le jeu de base, qui est gratuit et disponible [ici](https://mb.srb2.org/threads/1-3-3-srb2-persona-multiplayer-demo.29914/), sur Windows (le jeu est disponible sur Linux mais avec une version de retard, en plus d'utiliser une méthode d'installation différente). La page explique d'ailleurs très bien, même si en anglais, le jeu.
+
+Une fois arrivé sur le site, il vous faudra cliquer sur un des deux liens, comme indiqué ci-dessous :
+
+![image](https://user-images.githubusercontent.com/102819356/161419809-6de3b528-1d3e-4629-92b4-981393345012.png)
+
+Quand vous lancerez l'exécutable, Windows Defender vous préviendra, s'il est activé, que l'application n'est pas reconnue, ce qui est logique puisque c'est un jeu indépendant et relativement peu connu. Cliquez simplement sur "Informations complémentaires", puis "Exécuter quand même". L'exécutable va ensuite vous demander un emplacement pour le jeu, puis cliquez sur "Extraire". Voilà, Sonic Robo Blast 2 Persona est désormais installé.
+
+<h2>
+    Vibing BBTAG
+</h2>
+
+Maintenant que votre jeu de base est installé, il va falloir installer le mod. Tout d'abord, il va falloir le télécharger [ici](https://github.com/TokiyoDorifto/Vibing-BBTAG/blob/5f7ab78ac88bff440e93c1c448ff8a7139bda909/Vibing%20BBTAG.pk3). Cliquez sur "Download" à droite. Téléchargez le fichier directement dans le dossier de Sonic Robo Blast 2 Persona, afin de gagner du temps.
+
+Le mod est désormais installé, il faudra juste que vous l'activez à chaque lancement du jeu dans l'onglet "Add-ons" du jeu.
 
