@@ -93,4 +93,3 @@ Quand vous lancerez l'exécutable, Windows Defender vous préviendra, s'il est a
 Maintenant que votre jeu de base est installé, il va falloir installer le mod. Tout d'abord, il va falloir le télécharger [ici](https://github.com/TokiyoDorifto/Vibing-BBTAG/blob/5f7ab78ac88bff440e93c1c448ff8a7139bda909/Vibing%20BBTAG.pk3). Cliquez sur "Download" à droite. Téléchargez le fichier directement dans le dossier de Sonic Robo Blast 2 Persona, afin de gagner du temps.
 
 Le mod est désormais installé, il faudra juste que vous l'activez à chaque lancement du jeu dans l'onglet "Add-ons" du jeu.
-
